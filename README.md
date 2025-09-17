@@ -2,7 +2,12 @@
 
 A [libGDX](https://libgdx.com/) project generated with [gdx-liftoff](https://github.com/tommyettinger/gdx-liftoff).
 
-This project was generated with a template including simple application launchers and an `ApplicationAdapter` extension that draws libGDX logo.
+Run multiple Libgdx demos without the overhead and hassle creating an entirely new project for each concept involves.
+
+Multi-Tool embeds Libgdx into a Swing Canvas/GUI that will allow you to easily create and run new demos, 
+view code, and interface Libgdx code with Swing interface.
+
+TODO:  Ditch the Swing frontend and attempt integration with JavaFX for a snappier interfcae and more modern look.
 
 ## Gradle
 
